@@ -1,0 +1,2 @@
+C:\disk_test\Debug\disk_test.exe
+C:\disk_test\Debug\disk_test.pdb
